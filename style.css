@@ -188,7 +188,7 @@ input, textarea, select { font: inherit; color: inherit; }
 }
 
 .hero__bg {
-   background-image: url('foto-1.jpg');
+   background-image: url('foto-1.png');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
