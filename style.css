@@ -195,7 +195,7 @@ input, textarea, select { font: inherit; color: inherit; }
     /* Aggiungiamo uno strato scuro sopra la foto per far risaltare i testi */
     background-image: 
         radial-gradient(ellipse at 50% 20%, rgba(193, 101, 47, 0.14), transparent 60%), /* 1. Alone arancione */
-        linear-gradient(rgba(0, 0, 0, 0.55), rgba(0, 0, 0, 0.55)),                     /* 2. Overlay scuro (nero al 55% di opacità) */
+        linear-gradient(rgba(0, 0, 0, 0.55), rgba(0, 0, 0, 0.75)),                     /* 2. Overlay scuro (nero al 55% di opacità) */
         url('foto-1.png'),                                                               /* 3. La tua foto */
         linear-gradient(180deg, #0c0b0a 0%, #141210 55%, #0c0b0a 100%);                 /* 4. Sfondo di fallback */
 
